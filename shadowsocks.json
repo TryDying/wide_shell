@@ -1,0 +1,12 @@
+{
+"server":"c9s1.jamjams.net",
+"server_port":57296,
+"local_address":"127.0.0.1",
+"local_port":1080,
+"password":"7v7dHi9HDE",
+"timeout":300,
+"method":"aes-256-cfb",
+"fast_open":false,
+"workers":6
+}
+

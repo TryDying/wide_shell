@@ -1,2 +1,2 @@
 #!/bin/zsh
-sudo sslocal -c /etc/shadowsocks.json -d start
+sudo sslocal -c ./shadowsocks.json -d start
